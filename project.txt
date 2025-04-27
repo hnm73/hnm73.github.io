@@ -3354,19 +3354,6 @@
 
 },
 {
-"id":"Pool5126",
-"class":"pool",
-"roles":{
-"pool":{
-"id":5126,
-"name":"Pool 2",
-"questions":["5189"]
-}
-
-}
-
-},
-{
 "id":"JLPT-N3",
 "class":"project",
 "title":"JLPT-N3",
@@ -3409,9 +3396,10 @@
 
 }
 ,"contentReporting":{
-"CCCriteria":"quiz",
+"CCCriteria":"view",
 "CCData":{
-"quizData":"quiz_passed"
+"viewDataIsPercent":true,
+"viewData":0
 }
 ,
 "SCCriteria":"quiz",
